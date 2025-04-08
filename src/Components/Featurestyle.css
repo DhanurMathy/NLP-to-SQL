@@ -16,6 +16,10 @@
     font-size: 40px;
     font-weight: bold;
    }
+.features h4{
+    color: rgb(5, 5, 5);
+    font-size: 30px;
+}
 img{
     width: 190px;
 }
