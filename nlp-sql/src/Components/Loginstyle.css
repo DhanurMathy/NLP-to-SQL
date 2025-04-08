@@ -1,0 +1,28 @@
+input{
+    margin: 10px 50px;
+    padding: 5px 20px;
+}
+ul{
+    list-style-type: none;
+}
+
+form{
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+}
+.login h1{
+    text-align: center;
+}
+.sign{
+    
+    position: relative;
+
+}
+p{
+    text-align: center;
+}
